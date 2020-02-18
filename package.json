@@ -1,0 +1,22 @@
+{
+  "name": "react-project_nm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "say": "echo Hello World!",
+    "build": "mkdir build",
+    "remove": "rm -rf build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/React-project_NM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/React-project_NM/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/React-project_NM#readme"
+}
